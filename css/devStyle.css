@@ -19,6 +19,10 @@ header ul {
 	margin-top: 5px;
 }
 
+header ul li.allUpperCaseNav.dev {
+	background: #c6c6c6;
+}
+
 header ul li.allUpperCaseNav a {
 	font-family: "Oswald", sans-serif;
 	font-style: 20px;
